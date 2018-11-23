@@ -1,6 +1,6 @@
-token=
+token=NTE1NTk5MDUwMTkyNzE1ODI5.DtncpQ.EZ71zXfOLByF--rFxb85cp5yfwU
 owner=391306171278950401
-prefix=
-game=
+prefix=N
+game= Negro
 songinstatus=false
 stayinchannel=true
